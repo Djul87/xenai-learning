@@ -1,1 +1,1 @@
-# xenai-learning
+# Xenai Learning - Journal de bord
